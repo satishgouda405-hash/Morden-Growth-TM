@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://modern-growth.ok.kimi.link/sitemap.xml
